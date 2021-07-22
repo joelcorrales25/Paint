@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>Imagenes/ancho-del-texto.png</file>
+        <file>Imagenes/carpeta.png</file>
+        <file>Imagenes/cuchillo-de-uso.png</file>
+        <file>Imagenes/disco-flexible.png</file>
+        <file>Imagenes/documentos-oficiales.png</file>
+        <file>Imagenes/linea-diagonal.png</file>
+        <file>Imagenes/paint.png</file>
+        <file>Imagenes/rectangulo.png</file>
+        <file>Imagenes/rueda-de-color.png</file>
+        <file>Imagenes/vesica-piscis.png</file>
+    </qresource>
+</RCC>
